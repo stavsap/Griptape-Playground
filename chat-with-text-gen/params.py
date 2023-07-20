@@ -2,6 +2,7 @@ from griptape.structures import Agent
 from griptape.drivers import TextGenPromptDriver
 from griptape.tokenizers import TextGenTokenizer
 from transformers import PreTrainedTokenizerFast
+from griptape.utils import Chat
 
 params = {
         'max_new_tokens': 250,
