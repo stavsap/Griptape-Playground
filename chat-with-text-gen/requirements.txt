@@ -1,1 +1,1 @@
-pip install griptape==0.14.3
+griptape==0.14.3
